@@ -1,10 +1,14 @@
 **Topic**
 -
-Prescription Pattern and Patient Consumption of Antihypertensive Medications in a company clinic that attends just to its staff and retirees
+Optimisation of dispensing, refilling and procurement of medication processes in a company-owned clinic to reduce inefficiencies like wastage
+
+**Problem**
+-
+The main problem we identified was patients coming to the clinic earlier than their refill date to collect their medication, leading to inefficiency like wastage in the pharmacy process. We also found out that during procurement, the pharmacy estimates the quantity of a particular medication to acquire based on guesswork. Hence, we decided to carry out this project to identify the cases of early refills and quantify the actual wastage due to this, and also to determine the monthly consumption rate of the antihypertensives in the clinic so the procurement department can make informed decisions.
 
 **Aim**
 -
-To assess the prescribing patterns, dispensing frequency, and consumption of antihypertensive medications to inform drug forecasting, enhance monitoring practices, and optimise resource allocation.
+To assess the prescribing patterns, dispensing frequency, and consumption of antihypertensive medications to inform drug forecasting, identify early refills, and optimise resource allocation.
 
 **Specific objectives**
 -
